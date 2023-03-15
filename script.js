@@ -1,2 +1,2 @@
-let yourArray=['sarath',23,true,'kvafs',2023];
-console.log(yourArray.length);
+let simpleArray = ['one', 2, 'three', true, false, undefined, null];
+console.log(simpleArray.length);
